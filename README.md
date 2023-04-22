@@ -2,3 +2,5 @@
 Repotest
 
 add file
+
+マージてすと（merge）
